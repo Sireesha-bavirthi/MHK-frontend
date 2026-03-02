@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# Python virtual environment
+bin/
+include/
+pyvenv.cfg
+
+# OS files
+.DS_Store
